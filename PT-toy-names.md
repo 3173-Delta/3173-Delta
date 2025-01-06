@@ -51,8 +51,8 @@ Sheep:
 | 66. Gorn | 67. Wart | 68. Jamez | 69. Noice | 70. Cough |
 |---|---|---|---|---|
 | ![Gorn](https://github.com/user-attachments/assets/971202dc-f86a-43e9-975e-c1e50aba0676) | ![Wart](https://github.com/user-attachments/assets/ad67448c-19bd-48c6-9fe1-3d9a96c1af69) | ![Jamez](https://github.com/user-attachments/assets/e4a33531-c8b4-42e3-8931-30f3cd4656e7) | ![Noice](https://github.com/user-attachments/assets/f5ddab86-dbe3-43e3-bfe1-63d1bfde2c2d) | ![Cough](https://github.com/user-attachments/assets/3fd68d9d-f94c-4426-aa48-ea6b45361b9e) |
-| 71. Coup | 72. Icing | 73. ??? | 74. Kyle ||
-| ![Coup](https://github.com/user-attachments/assets/722b7b89-9334-4f30-a063-df8d4a1962c4) | ![Icing](https://github.com/user-attachments/assets/fb633b2b-8b8c-4bee-a818-64c8f6ad6ed3) | ![???](https://github.com/user-attachments/assets/bec6d83b-ebd0-4765-9fc9-cdaab6d662d7) | ![Kyle](https://github.com/user-attachments/assets/633356f4-a556-416e-a0a2-044b0156eb09) ||
+| 71. Coup | 72. Icing | 73. Dram | 74. Kyle ||
+| ![Coup](https://github.com/user-attachments/assets/722b7b89-9334-4f30-a063-df8d4a1962c4) | ![Icing](https://github.com/user-attachments/assets/fb633b2b-8b8c-4bee-a818-64c8f6ad6ed3) | ![Dram](https://github.com/user-attachments/assets/bec6d83b-ebd0-4765-9fc9-cdaab6d662d7) | ![Kyle](https://github.com/user-attachments/assets/633356f4-a556-416e-a0a2-044b0156eb09) ||
 
 Pigs:
 
