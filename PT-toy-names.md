@@ -216,19 +216,24 @@ Owls:
 |---|---|---|---|---|
 | ![Soot](https://github.com/user-attachments/assets/4cd2fb4d-19a7-415e-a1a1-daadd84edbda) | ![Burger](https://github.com/user-attachments/assets/5e95a8d2-fdc5-4aec-8dbb-9a6992c7aacb) | ![Bhoo](https://github.com/user-attachments/assets/125b5295-b14e-46e8-96f7-59c4286c0ab6) | ![Celeste](https://github.com/user-attachments/assets/49629d04-a128-4ec9-96bb-142ca9fc8f57) | ![Sorren](https://github.com/user-attachments/assets/13419364-5e51-4cfe-bb80-f9123173eaa8) |
 
+Wolf:
+| 198. Corg |
+|---|
+| ![Corg](https://github.com/user-attachments/assets/38eae089-29c5-4921-a704-8201228fe564) |
+
 Dogs 1:
 
-| 198. Corg | 199. Cheeseburger | 200. Nino | 201. Bloot | 202. Parade |
+| 199. Cheeseburger | 200. Nino | 201. Bloot | 202. Parade | 203. Bouphe |
 |---|---|---|---|---|
-| ![Corg](https://github.com/user-attachments/assets/38eae089-29c5-4921-a704-8201228fe564) | ![Cheeseburger](https://github.com/user-attachments/assets/ef1c5f06-acd7-464f-9e3c-796a4f844eb6) | ![Nino](https://github.com/user-attachments/assets/2a1bbee9-0bad-427b-9965-ff37c4d35b60) | ![Bloot](https://github.com/user-attachments/assets/6446ada1-d066-4932-8790-8523781a530f) | ![Parade](https://github.com/user-attachments/assets/577bbc49-5806-4e6a-8324-a0c8a9748d86) |
-| 203. Bouphe | 204. Pat | 205. Dirt | 206. Molasis | 207. Elf |
-| ![Bouphe](https://github.com/user-attachments/assets/513c10b2-c86e-42df-a769-76aaf1e7cc7f) | ![Pat](https://github.com/user-attachments/assets/6c738d63-7553-437b-952f-5708eb2dadd5) | ![Dirt](https://github.com/user-attachments/assets/1ce45999-e86f-468f-bf0b-865f70232af5) | ![Molasis](https://github.com/user-attachments/assets/df8f585f-d0b1-4214-98f4-834d2c7a693d) | ![Elf](https://github.com/user-attachments/assets/c96b0733-d84a-4445-8fc5-70ce82a2feb8) |
-| 208. Warlock | 209. Bitock | 210. Pooble | 211. Firefly | 212. Bat |
-| ![Warlock](https://github.com/user-attachments/assets/6fae862f-afd5-4698-92b2-5f808721e9cf) | ![Bitock](https://github.com/user-attachments/assets/e042bab5-03f6-45cf-850b-c15acaa148dc) | ![Pooble](https://github.com/user-attachments/assets/0856abc5-b484-4022-8814-2e08c2bf501b) | ![Firefly](https://github.com/user-attachments/assets/263f0e8e-4b7b-4763-a8ab-294fbfedecf3) | ![Bat](https://github.com/user-attachments/assets/d98af4af-cde0-4072-8782-3bdd902f2445) |
-| 213. Spuds | 214. Rabble | 215. Earache | 216. Choking | 217. Numbers |
-| ![Spuds](https://github.com/user-attachments/assets/77f00c41-b61c-48d3-82dc-f4c41f79fb20) | ![Rabble](https://github.com/user-attachments/assets/e3cdae82-2f7d-418b-9cac-5bcc7af4ba5b) | ![Earache](https://github.com/user-attachments/assets/8017fe91-6b05-4cb9-8de0-54701c50f327) | ![Chocking](https://github.com/user-attachments/assets/e201596f-b65e-42fc-8be5-568199bb138f) | ![Numbers](https://github.com/user-attachments/assets/fbe89478-e108-4ffe-8272-c26379ff37be) |
-| 218. Shoes | 219. Chicken Sandwich | 220. Sad Balloon | 221. Elecro ||
-| ![Shoes](https://github.com/user-attachments/assets/d4b84339-d2ae-476a-b225-5c13ab89b40e) | ![Chicken sSandwich](https://github.com/user-attachments/assets/87d82923-aaf8-4b38-a52e-d302b44ba7e1) | ![Sad Balloon](https://github.com/user-attachments/assets/4bb67a7a-01d8-40a1-8521-4059cb1cee5b) | ![Electro](https://github.com/user-attachments/assets/87ba30f0-4aff-4ed6-884d-bef44beabab0) ||
+| ![Cheeseburger](https://github.com/user-attachments/assets/ef1c5f06-acd7-464f-9e3c-796a4f844eb6) | ![Nino](https://github.com/user-attachments/assets/2a1bbee9-0bad-427b-9965-ff37c4d35b60) | ![Bloot](https://github.com/user-attachments/assets/6446ada1-d066-4932-8790-8523781a530f) | ![Parade](https://github.com/user-attachments/assets/577bbc49-5806-4e6a-8324-a0c8a9748d86) | ![Bouphe](https://github.com/user-attachments/assets/513c10b2-c86e-42df-a769-76aaf1e7cc7f) |
+| 204. Pat | 205. Dirt | 206. Molasis | 207. Elf | 208. Warlock |
+| ![Pat](https://github.com/user-attachments/assets/6c738d63-7553-437b-952f-5708eb2dadd5) | ![Dirt](https://github.com/user-attachments/assets/1ce45999-e86f-468f-bf0b-865f70232af5) | ![Molasis](https://github.com/user-attachments/assets/df8f585f-d0b1-4214-98f4-834d2c7a693d) | ![Elf](https://github.com/user-attachments/assets/c96b0733-d84a-4445-8fc5-70ce82a2feb8) | ![Warlock](https://github.com/user-attachments/assets/6fae862f-afd5-4698-92b2-5f808721e9cf) |
+| 209. Bitock | 210. Pooble | 211. Firefly | 212. Bat | 213. Spuds |
+| ![Bitock](https://github.com/user-attachments/assets/e042bab5-03f6-45cf-850b-c15acaa148dc) | ![Pooble](https://github.com/user-attachments/assets/0856abc5-b484-4022-8814-2e08c2bf501b) | ![Firefly](https://github.com/user-attachments/assets/263f0e8e-4b7b-4763-a8ab-294fbfedecf3) | ![Bat](https://github.com/user-attachments/assets/d98af4af-cde0-4072-8782-3bdd902f2445) | ![Spuds](https://github.com/user-attachments/assets/77f00c41-b61c-48d3-82dc-f4c41f79fb20) |
+| 214. Rabble | 215. Earache | 216. Choking | 217. Numbers | 218. Shoes |
+| ![Rabble](https://github.com/user-attachments/assets/e3cdae82-2f7d-418b-9cac-5bcc7af4ba5b) | ![Earache](https://github.com/user-attachments/assets/8017fe91-6b05-4cb9-8de0-54701c50f327) | ![Chocking](https://github.com/user-attachments/assets/e201596f-b65e-42fc-8be5-568199bb138f) | ![Numbers](https://github.com/user-attachments/assets/fbe89478-e108-4ffe-8272-c26379ff37be) | ![Shoes](https://github.com/user-attachments/assets/d4b84339-d2ae-476a-b225-5c13ab89b40e) |
+| 219. Chicken Sandwich | 220. Sad Balloon | 221. Elecro |||
+| ![Chicken sSandwich](https://github.com/user-attachments/assets/87d82923-aaf8-4b38-a52e-d302b44ba7e1) | ![Sad Balloon](https://github.com/user-attachments/assets/4bb67a7a-01d8-40a1-8521-4059cb1cee5b) | ![Electro](https://github.com/user-attachments/assets/87ba30f0-4aff-4ed6-884d-bef44beabab0) |||
 
 Snails:
 
@@ -284,11 +289,23 @@ Tyrannosaurs:
 | 267. Kappa |||||
 | ![Kappa](https://github.com/user-attachments/assets/b9488eea-d887-4e39-92d9-7b989f3177c8) |||||
 
-Birds 2:
+Candle:
 
-| 270.  | 271.  | 272.  | 273.  | 274.  |
+| 268. Torture |
+|---|
+| ![Torture](https://github.com/user-attachments/assets/f9bcd745-5bcd-4cbb-b189-4517a119e82f) |
+
+Lollipop:
+
+| 269. Whoops |
+|---|
+| ![Whoops](https://github.com/user-attachments/assets/1e3c0382-5ecc-44c5-9118-bc6e641af6ff) |
+
+Corvids:
+
+| 270. Worc | 271. Corvok | 272. Dent | 273. Doop | 274. Balujey |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/b5ef2022-90ab-4d4f-a102-362ed3ae1f59) | ![image](https://github.com/user-attachments/assets/7b909cac-a809-4651-a962-2720c3aafb6e) | ![image](https://github.com/user-attachments/assets/5e0774a5-47a7-40e6-a8d8-4e609d89cdc2) | ![image](https://github.com/user-attachments/assets/5ef169e5-83b5-4fad-be8c-edf179c7a1c4) | ![image](https://github.com/user-attachments/assets/bc70c8b1-54bf-4695-a589-07756a27c5d3) |
+| ![Worc](https://github.com/user-attachments/assets/b5ef2022-90ab-4d4f-a102-362ed3ae1f59) | ![Corvok](https://github.com/user-attachments/assets/7b909cac-a809-4651-a962-2720c3aafb6e) | ![Dent](https://github.com/user-attachments/assets/5e0774a5-47a7-40e6-a8d8-4e609d89cdc2) | ![Doop](https://github.com/user-attachments/assets/5ef169e5-83b5-4fad-be8c-edf179c7a1c4) | ![Balujey](https://github.com/user-attachments/assets/bc70c8b1-54bf-4695-a589-07756a27c5d3) |
 
 Dogs 2:
 
@@ -298,102 +315,171 @@ Dogs 2:
 
 Dragons:
 
-| 279.  | 280.  | 281.  | 282.  | 283.  |
+| 279. Dungeon | 280. Tycron | 281. Tree | 282. Godron | 283. Rain |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/ac8a5aa1-1afa-4f59-9032-482945f6bf29) | ![image](https://github.com/user-attachments/assets/d5393fcc-0a3a-4103-a07f-a8e30374a061) | ![image](https://github.com/user-attachments/assets/841b0e29-690e-40c1-ae3f-9906e630c144) | ![image](https://github.com/user-attachments/assets/3d05d0bf-dc87-4b60-b0dd-fafaf37e9641) | ![image](https://github.com/user-attachments/assets/e5f1295a-4ff7-472a-b8e4-7709ce1316a3) |
-| 284.  | 285.  | 286.  | 287.  | 288.  |
-| ![image](https://github.com/user-attachments/assets/0dc1377c-6f89-457c-a94f-429f804e9be9) | ![image](https://github.com/user-attachments/assets/c0e67551-d8bc-4793-8aaa-e710f0de6bba) | ![image](https://github.com/user-attachments/assets/d05d4e10-2166-4bd5-8a33-6283b8678703) | ![image](https://github.com/user-attachments/assets/ec8b4d58-68af-4459-8486-00e8c2a66ec4) | ![image](https://github.com/user-attachments/assets/c1a8b23c-537f-4573-802f-e053a6a29a29) |
-| 289.  | 290.  | 291.  | 292.  | 293.  |
-| ![image](https://github.com/user-attachments/assets/929e68af-9c3f-4f02-94a4-dcd49c53cdf0) | ![image](https://github.com/user-attachments/assets/91e924f0-be14-4abb-8efe-417acd4258bb) | ![image](https://github.com/user-attachments/assets/4b860f6c-a6f7-4730-be64-47edf98a8bae) | ![image](https://github.com/user-attachments/assets/8dadaa69-f2b3-47bd-8b10-2f82e0cfe262) | ![image](https://github.com/user-attachments/assets/1590f86e-08a1-4a25-a7ff-5aaeccd9f910) |
-| 294.  |||||
-| ![image](https://github.com/user-attachments/assets/36696c78-23b8-4b28-8328-59ed7d31af38) |||||
+| ![Dungeon](https://github.com/user-attachments/assets/ac8a5aa1-1afa-4f59-9032-482945f6bf29) | ![Tycron](https://github.com/user-attachments/assets/d5393fcc-0a3a-4103-a07f-a8e30374a061) | ![Tree](https://github.com/user-attachments/assets/841b0e29-690e-40c1-ae3f-9906e630c144) | ![Godron](https://github.com/user-attachments/assets/3d05d0bf-dc87-4b60-b0dd-fafaf37e9641) | ![Rain](https://github.com/user-attachments/assets/e5f1295a-4ff7-472a-b8e4-7709ce1316a3) |
+| 284. Resh | 285. Lovely | 286. Spickle | 287. Spyro | 288. Ember |
+| ![Resh](https://github.com/user-attachments/assets/0dc1377c-6f89-457c-a94f-429f804e9be9) | ![Lovely](https://github.com/user-attachments/assets/c0e67551-d8bc-4793-8aaa-e710f0de6bba) | ![Spickle](https://github.com/user-attachments/assets/d05d4e10-2166-4bd5-8a33-6283b8678703) | ![Spyro](https://github.com/user-attachments/assets/ec8b4d58-68af-4459-8486-00e8c2a66ec4) | ![Ember](https://github.com/user-attachments/assets/c1a8b23c-537f-4573-802f-e053a6a29a29) |
+| 289. Endro | 290. Teef | 291. Addict | 292. Housefire | 293. Cornton |
+| ![Endro](https://github.com/user-attachments/assets/929e68af-9c3f-4f02-94a4-dcd49c53cdf0) | ![Teef](https://github.com/user-attachments/assets/91e924f0-be14-4abb-8efe-417acd4258bb) | ![Addict](https://github.com/user-attachments/assets/4b860f6c-a6f7-4730-be64-47edf98a8bae) | ![Housefire](https://github.com/user-attachments/assets/8dadaa69-f2b3-47bd-8b10-2f82e0cfe262) | ![Cornton](https://github.com/user-attachments/assets/1590f86e-08a1-4a25-a7ff-5aaeccd9f910) |
+| 294. Neverer |||||
+| ![Neverer](https://github.com/user-attachments/assets/36696c78-23b8-4b28-8328-59ed7d31af38) |||||
 
 Goats:
 
-| 295.  | 296.  | 297.  | 298.  | 299.  |
+| 295. Muppy | 296. Splat | 297. Football | 298. Sok | 299. Gabe |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/ed1224e1-93e8-44f8-a205-e84d97b62b78) | ![image](https://github.com/user-attachments/assets/d7a49dbd-1fe2-47fc-9e91-387a1e4f6a15) | ![image](https://github.com/user-attachments/assets/dc77f530-a141-4388-b2b0-500df6b0d287) | ![image](https://github.com/user-attachments/assets/3f28a136-67ab-4285-8ef7-7f60cd21dedd) | ![image](https://github.com/user-attachments/assets/0ff8c49e-9d56-4556-a978-33d2efc51fc7) |
-| 300.  | 301.  | 302.  | 303.  | 304.  |
-| ![image](https://github.com/user-attachments/assets/22638ad0-c90d-49e5-8f0d-cd40f910f3b0) | ![image](https://github.com/user-attachments/assets/93c8955a-aff5-431b-8e68-6fedf3d4b213) | ![image](https://github.com/user-attachments/assets/995e776e-b1fc-4fc4-9a39-39153947f58c) | ![image](https://github.com/user-attachments/assets/bd36c53d-c8e9-4688-a462-dfc1cb91edb8) | ![image](https://github.com/user-attachments/assets/62a98de5-820c-40a5-9460-b3e45c72caf6) |
-| 305.  | 306.  | 307.  |||
-| ![image](https://github.com/user-attachments/assets/2fcb32a0-a10b-4774-aae3-371403bf8f97) | ![image](https://github.com/user-attachments/assets/49e7d9ff-8821-4bd4-a83f-8ba93d0e7033) | ![image](https://github.com/user-attachments/assets/0dac69db-fb35-40c6-9b94-78f2ee7e4dab) |||
+| ![Muppy](https://github.com/user-attachments/assets/ed1224e1-93e8-44f8-a205-e84d97b62b78) | ![Splat](https://github.com/user-attachments/assets/d7a49dbd-1fe2-47fc-9e91-387a1e4f6a15) | ![Football](https://github.com/user-attachments/assets/dc77f530-a141-4388-b2b0-500df6b0d287) | ![Sok](https://github.com/user-attachments/assets/3f28a136-67ab-4285-8ef7-7f60cd21dedd) | ![Gabe](https://github.com/user-attachments/assets/0ff8c49e-9d56-4556-a978-33d2efc51fc7) |
+| 300. Pillow | 301. Hook | 302. Shovet | 303. Terrance | 304. Yodel |
+| ![Pillow](https://github.com/user-attachments/assets/22638ad0-c90d-49e5-8f0d-cd40f910f3b0) | ![Hook](https://github.com/user-attachments/assets/93c8955a-aff5-431b-8e68-6fedf3d4b213) | ![Shovet](https://github.com/user-attachments/assets/995e776e-b1fc-4fc4-9a39-39153947f58c) | ![Terrance](https://github.com/user-attachments/assets/bd36c53d-c8e9-4688-a462-dfc1cb91edb8) | ![Yodel](https://github.com/user-attachments/assets/62a98de5-820c-40a5-9460-b3e45c72caf6) |
+| 305. Mom | 306. Leader | 307. Billie |||
+| ![Mom](https://github.com/user-attachments/assets/2fcb32a0-a10b-4774-aae3-371403bf8f97) | ![Leader](https://github.com/user-attachments/assets/49e7d9ff-8821-4bd4-a83f-8ba93d0e7033) | ![Billie](https://github.com/user-attachments/assets/0dac69db-fb35-40c6-9b94-78f2ee7e4dab) |||
 
 Octopi:
 
-| 308.  | 309.  | 310.  | 311.  | 312.  |
+| 308. Tang Puff | 309. Astral Puff | 310. Ward | 311. Pearl Jack | 312. Jellope |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/1fdf665c-22cf-49cb-a66b-156bce899370) | ![image](https://github.com/user-attachments/assets/33856726-6adb-4132-aaf9-5ddebe0552da) | ![image](https://github.com/user-attachments/assets/02ef1f28-5dfa-4dc0-89b8-8cb830c324a1) | ![image](https://github.com/user-attachments/assets/f91d5181-4544-484f-bc68-4b397e0db67d) | ![image](https://github.com/user-attachments/assets/5386c91d-51a3-4727-83ec-dc509c45ba3c) |
-| 313.  | 314.  ||||
-| ![image](https://github.com/user-attachments/assets/2be96386-ada3-4381-af37-e73e65e96d64) | ![image](https://github.com/user-attachments/assets/1c155304-28ce-4f4d-bc0a-ed110a7011a2) ||||
+| ![TangPuff](https://github.com/user-attachments/assets/1fdf665c-22cf-49cb-a66b-156bce899370) | ![AstralPuff](https://github.com/user-attachments/assets/33856726-6adb-4132-aaf9-5ddebe0552da) | ![Ward](https://github.com/user-attachments/assets/02ef1f28-5dfa-4dc0-89b8-8cb830c324a1) | ![PearlJack](https://github.com/user-attachments/assets/f91d5181-4544-484f-bc68-4b397e0db67d) | ![Jellope](https://github.com/user-attachments/assets/5386c91d-51a3-4727-83ec-dc509c45ba3c) |
+| 313. Thulu | 314. Inky ||||
+| ![Thulu](https://github.com/user-attachments/assets/2be96386-ada3-4381-af37-e73e65e96d64) | ![Inky](https://github.com/user-attachments/assets/1c155304-28ce-4f4d-bc0a-ed110a7011a2) ||||
 
 Sharks:
 
-| 315.  | 316.  | 317.  | 318.  |
+| 315. Jawm | 316. Ikea | 317. Pinkea | 318. Ikea |
 |---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/898896ee-669f-4c43-822d-a612a8f08d99) | ![image](https://github.com/user-attachments/assets/d1866698-0b35-45a3-9632-1269de3f40d6) | ![image](https://github.com/user-attachments/assets/4038a681-0934-42ff-9428-4c2a27aef0e5) | ![image](https://github.com/user-attachments/assets/ae405ad3-9f8a-41c6-8d2e-83c63e14d2c7) |
+| ![Jawm](https://github.com/user-attachments/assets/898896ee-669f-4c43-822d-a612a8f08d99) | ![Ikea](https://github.com/user-attachments/assets/d1866698-0b35-45a3-9632-1269de3f40d6) | ![Pinkea](https://github.com/user-attachments/assets/4038a681-0934-42ff-9428-4c2a27aef0e5) | ![Ikea2](https://github.com/user-attachments/assets/ae405ad3-9f8a-41c6-8d2e-83c63e14d2c7) |
 
 Moths:
 
-| 319.  | 320.  | 321.  | 322.  | 323.  |
+| 319. Plate | 320. Wellington | 321. Eclipse | 322. Cupid | 323. Garden |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/c61aed16-3ad4-4a87-af74-47f0358e6a5a) | ![image](https://github.com/user-attachments/assets/353cffd9-ae00-4899-bd04-3df9b02a106a) | ![image](https://github.com/user-attachments/assets/36fcc7b2-3530-4f2a-8a98-f2f3c4cddce7) | ![image](https://github.com/user-attachments/assets/7f287a88-c29d-44fc-a3d0-34d94f77b414) | ![image](https://github.com/user-attachments/assets/3d477756-ef2b-422a-aae5-60474d4ed5a2) |
-| 324.  | 325.  ||||
-| ![image](https://github.com/user-attachments/assets/04434639-1f46-43c9-b00c-017b02b96194) | ![image](https://github.com/user-attachments/assets/c4ca156c-4285-48af-bd99-4db017ce5753) ||||
+| ![Plate](https://github.com/user-attachments/assets/c61aed16-3ad4-4a87-af74-47f0358e6a5a) | ![Wellington](https://github.com/user-attachments/assets/353cffd9-ae00-4899-bd04-3df9b02a106a) | ![Eclipse](https://github.com/user-attachments/assets/36fcc7b2-3530-4f2a-8a98-f2f3c4cddce7) | ![Cupid](https://github.com/user-attachments/assets/7f287a88-c29d-44fc-a3d0-34d94f77b414) | ![Garden](https://github.com/user-attachments/assets/3d477756-ef2b-422a-aae5-60474d4ed5a2) |
+| 324. Comb | 325. Voile ||||
+| ![Comb](https://github.com/user-attachments/assets/04434639-1f46-43c9-b00c-017b02b96194) | ![Voile](https://github.com/user-attachments/assets/c4ca156c-4285-48af-bd99-4db017ce5753) ||||
 
 Dragonflies:
 
-| 326.  | 327.  | 328.  | 329.  | 330.  |
+| 326. Poeing | 327. Lingus | 328. Siberia | 329. Wizz | 330. Dutcheir |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/feeefe15-8381-48c6-b6c8-b744fb2e46cf) | ![image](https://github.com/user-attachments/assets/95575ff9-5765-497c-a563-105a3316cdf5) | ![image](https://github.com/user-attachments/assets/c4853d3f-35b2-4c5d-b63b-68049f58d4c8) | ![image](https://github.com/user-attachments/assets/5f1a44d7-2532-4adc-8ccb-c4eeae1342a4) | ![image](https://github.com/user-attachments/assets/de22203f-3c19-491c-b279-fa0bc9c0e937) |
-| 331.  | 332.  ||||
-| ![image](https://github.com/user-attachments/assets/5a23bc55-f4f7-416e-b5ba-13ea11844495) | ![image](https://github.com/user-attachments/assets/ea7c0cc9-09a5-4e28-87ed-472c0e1b77e1) ||||
+| ![Poeing](https://github.com/user-attachments/assets/feeefe15-8381-48c6-b6c8-b744fb2e46cf) | ![Lingus](https://github.com/user-attachments/assets/95575ff9-5765-497c-a563-105a3316cdf5) | ![Siberia](https://github.com/user-attachments/assets/c4853d3f-35b2-4c5d-b63b-68049f58d4c8) | ![Wizz](https://github.com/user-attachments/assets/5f1a44d7-2532-4adc-8ccb-c4eeae1342a4) | ![Dutcheir](https://github.com/user-attachments/assets/de22203f-3c19-491c-b279-fa0bc9c0e937) |
+| 331. Staffor | 332. Spectrum ||||
+| ![Staffor](https://github.com/user-attachments/assets/5a23bc55-f4f7-416e-b5ba-13ea11844495) | ![Spectrum](https://github.com/user-attachments/assets/ea7c0cc9-09a5-4e28-87ed-472c0e1b77e1) ||||
 
 Beetles:
 
-| 333.  | 334.  | 335.  | 336.  | 337.  |
+| 333. Guy | 334. Woman | 335. Seaung | 336. Moonung | 337. It |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/81055c11-00f8-47cc-ac79-705df80f69cf) | ![image](https://github.com/user-attachments/assets/f8948c4e-2d04-46e3-ac75-3767ae9ed774) | ![image](https://github.com/user-attachments/assets/ac3bb769-0a07-4c2c-ba37-59bea0f5e022) | ![image](https://github.com/user-attachments/assets/2b1db834-9564-46d2-93dc-ddf2c9850339) | ![image](https://github.com/user-attachments/assets/203d78f3-511d-4531-ac12-3481e58067cf) |
-| 338.  | 339.  ||||
-| ![image](https://github.com/user-attachments/assets/f76fce10-ed57-4dc9-b7ad-66093f6f3df2) | ![image](https://github.com/user-attachments/assets/df80578b-417b-4af2-9cc2-24587db857a0) ||||
+| ![Guy](https://github.com/user-attachments/assets/81055c11-00f8-47cc-ac79-705df80f69cf) | ![Woman](https://github.com/user-attachments/assets/f8948c4e-2d04-46e3-ac75-3767ae9ed774) | ![Seaung](https://github.com/user-attachments/assets/ac3bb769-0a07-4c2c-ba37-59bea0f5e022) | ![Moonung](https://github.com/user-attachments/assets/2b1db834-9564-46d2-93dc-ddf2c9850339) | ![It](https://github.com/user-attachments/assets/203d78f3-511d-4531-ac12-3481e58067cf) |
+| 338. Grassung | 339. Sundong ||||
+| ![Grassung](https://github.com/user-attachments/assets/f76fce10-ed57-4dc9-b7ad-66093f6f3df2) | ![Sundong](https://github.com/user-attachments/assets/df80578b-417b-4af2-9cc2-24587db857a0) ||||
 
 Butterflies:
 
-| 340.  | 341.  | 342.  | 343.  | 344.  |
+| 340. Shy | 341. Greeble | 342. Befour | 343. Sunflower | 344. Danelick |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/3f8a5eab-4977-4c13-ae34-01d5ce09df8d) | ![image](https://github.com/user-attachments/assets/db46bde8-6929-4a9e-94cd-ec5d7a6d2a88) | ![image](https://github.com/user-attachments/assets/8f3b07f1-b303-4518-826f-1240882227fb) | ![image](https://github.com/user-attachments/assets/0f8aaa70-4f9a-4e2b-89e3-15269d37c92d) | ![image](https://github.com/user-attachments/assets/644254c7-379c-486f-9dbf-007d948a7eea) |
-| 345.  | 346.  | 347.  |||
-| ![image](https://github.com/user-attachments/assets/25326eaa-6a8e-4de7-b2f6-8aa58ec50f76) | ![image](https://github.com/user-attachments/assets/b6ebdd2b-abb1-4eb1-ba85-48cc7a0e2287) | ![image](https://github.com/user-attachments/assets/84f7ca0a-9416-4708-a122-24f002ca9c34) |||
+| ![Shy](https://github.com/user-attachments/assets/3f8a5eab-4977-4c13-ae34-01d5ce09df8d) | ![Greeble](https://github.com/user-attachments/assets/db46bde8-6929-4a9e-94cd-ec5d7a6d2a88) | ![Befour](https://github.com/user-attachments/assets/8f3b07f1-b303-4518-826f-1240882227fb) | ![Sunflower](https://github.com/user-attachments/assets/0f8aaa70-4f9a-4e2b-89e3-15269d37c92d) | ![Danelick](https://github.com/user-attachments/assets/644254c7-379c-486f-9dbf-007d948a7eea) |
+| 345. Kite | 346. That Guy From Walmart | 347. Aftour |||
+| ![Kite](https://github.com/user-attachments/assets/25326eaa-6a8e-4de7-b2f6-8aa58ec50f76) | ![ThatGuyFromWalmart](https://github.com/user-attachments/assets/b6ebdd2b-abb1-4eb1-ba85-48cc7a0e2287) | ![Aftour](https://github.com/user-attachments/assets/84f7ca0a-9416-4708-a122-24f002ca9c34) |||
+
+Apples:
+
+| 348. Grantrash | 349. Trash |
+|---|---|
+| ![Grantrash](https://github.com/user-attachments/assets/37b1618a-de71-441f-a6d0-87f09c93d833) | ![Trash](https://github.com/user-attachments/assets/96a810eb-30dd-4cfe-86e1-ac779639a4a5) |
+
+Banana Peel:
+
+| 350. Holy |
+|---|
+| ![Holy](https://github.com/user-attachments/assets/c7b9ad4a-2415-4e70-aa5a-bd267b68878d) |
+
+Orange:
+
+| 351. Annoying |
+|---|
+| ![Annoying](https://github.com/user-attachments/assets/00f073b4-40de-428c-8d5a-04e9051eca9f) |
+
+Cakes:
+
+| 352. Cherry Cake | 353. Choco Cake | 354. Make A Wish | 355. Please |
+|---|---|---|---|
+| ![CherryCake](https://github.com/user-attachments/assets/cc5cc0a3-01e8-450a-bd4b-92adf6d18649) | ![ChocoCake](https://github.com/user-attachments/assets/bf1eaf2b-d777-4223-ab41-fbd43fae133f) | ![MakeAWish](https://github.com/user-attachments/assets/eba642e1-35f0-4793-a889-b1de90731526) | ![Please](https://github.com/user-attachments/assets/74eb4ed5-f601-41ac-8437-0580413d565c) |
+
+Donuts:
+
+| 356. Spool | 357. What Gordon Calls You | 358. Share Me | 359. Alien Ship |
+|---|---|---|---|
+| ![Spool](https://github.com/user-attachments/assets/b518b11a-d841-4bc2-8694-f78abcfcd180) | ![WhatGordonCallsYou](https://github.com/user-attachments/assets/031781ee-06ae-4c27-bfa9-c7e41e853ade) | ![ShareMe](https://github.com/user-attachments/assets/b1f0860c-c7ad-4871-9729-8d5e840f41b5) | ![AlienShip](https://github.com/user-attachments/assets/4f8d41c9-ca4c-42c4-aa92-55bef826b98f) |
+
+Cheese:
+
+| 360. You Stink |
+|---|
+| ![YouStink](https://github.com/user-attachments/assets/b273a46b-8756-48c2-b831-1c6bd9b3adaa) |
+
+Strings:
+
+| 361. Ow My Eyes | 362. Turn That Off |
+|---|---|
+| ![OwMyEyes](https://github.com/user-attachments/assets/2a44f9d7-7111-4608-b108-13594485bdbd) | ![TurnThatOff](https://github.com/user-attachments/assets/c87cc47d-e886-4dc1-88b1-adcfaa8f4627) |
+
+Poinsettia Flowers:
+
+| 363. Boquet | 364. Corsage | 365. Nosegay |
+|---|---|---|
+| ![Boquet](https://github.com/user-attachments/assets/c9999d77-920e-41d7-a980-d824adea2204) | ![Corsage](https://github.com/user-attachments/assets/8952ca7a-45c0-4d33-b3f0-d034f0907e24) | ![Nosegay](https://github.com/user-attachments/assets/c95d2816-c92d-46d4-8640-b5e8815771fb) |
+
+Paper Crowns:
+
+| 366. Very Common | 367. Common | 368. Uncommon | 369. Rare | 370. Very Rare |
+|---|---|---|---|---|
+| ![VeryCommon](https://github.com/user-attachments/assets/fdfacef0-0d17-4e96-a222-33fa924a7f22) | ![Common](https://github.com/user-attachments/assets/67f970e2-771c-4601-b2e9-7681b4042186) | ![Uncommon](https://github.com/user-attachments/assets/d7d23c9d-8587-400a-8bf7-a2fb68d4a870) | ![Rare](https://github.com/user-attachments/assets/24eeada0-6af4-43dc-98e9-41847507b01b) | ![VeryRare](https://github.com/user-attachments/assets/eb586078-2dbe-4f42-a37a-7f58a6531910) |
+| 371. Ultra Rare |||||
+| ![UltraRare](https://github.com/user-attachments/assets/f95274f9-9ad6-4159-9b4c-1b3cc300d9fc) |||||
+
+Bell Ribbons:
+
+| 372. Loud Bell | 373. Quiet Bell | 374. Silent Bell |
+|---|---|---|
+| ![LoudBell](https://github.com/user-attachments/assets/beed19b5-5e8a-43cf-8cc6-6b3d91172466) | ![QuietBell](https://github.com/user-attachments/assets/ad034e99-f195-471a-b75a-8727a22c5c19) | ![SilentBell](https://github.com/user-attachments/assets/7809078a-aea2-4de9-bd2a-69204a80eb2e) |
+
+Bell Hat:
+
+| 375. Tingle Dingle |
+|---|
+| ![TingleDingle](https://github.com/user-attachments/assets/2e818730-0108-4355-9cd8-d1af21e82b82) |
 
 Turtles:
 
-| 376.  | 377.  | 378.  | 379.  | 380.  |
+| 376. Burger Patty | 377. Dude | 378. Raphael | 379. Squirt | 380. Ninja |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/927a892b-748a-4024-a22f-93963f7efc5d) | ![image](https://github.com/user-attachments/assets/90637ac5-028f-4cd9-b983-d2d396ced099) | ![image](https://github.com/user-attachments/assets/2f2412f3-a883-4d5b-bcbc-4cab46613f3b) | ![image](https://github.com/user-attachments/assets/6d98cbea-55dd-4ce4-a819-c775af999a7c) | ![image](https://github.com/user-attachments/assets/31620b6c-1cf5-45f1-b72c-59cf1da73b6f) |
-| 381.  | 382.  | 383.  | 384.  | 385.  |
-| ![image](https://github.com/user-attachments/assets/44678618-4a64-4bf4-923a-d2a2dda6431f) | ![image](https://github.com/user-attachments/assets/38b1e6af-8d84-475c-81d6-fbe0e58888c7) | ![image](https://github.com/user-attachments/assets/59a04ddb-fea9-4b2b-b020-1713c7cc349e) | ![image](https://github.com/user-attachments/assets/4c94eb73-b95c-4e34-ba99-fd4a8ed0fdc8) | ![image](https://github.com/user-attachments/assets/9bd51c15-7a02-448d-a3c7-1a7bcf4788b2) |
-| 386.  | 387.  ||||
-| ![image](https://github.com/user-attachments/assets/9e3cd5ce-fc9f-486b-8e21-bc25de94238d) | ![image](https://github.com/user-attachments/assets/b6017d54-c804-4bae-8186-d68b32c4c9f0) ||||
+| ![BurgerPatty](https://github.com/user-attachments/assets/927a892b-748a-4024-a22f-93963f7efc5d) | ![Dude](https://github.com/user-attachments/assets/90637ac5-028f-4cd9-b983-d2d396ced099) | ![Raphael](https://github.com/user-attachments/assets/2f2412f3-a883-4d5b-bcbc-4cab46613f3b) | ![Squirt](https://github.com/user-attachments/assets/6d98cbea-55dd-4ce4-a819-c775af999a7c) | ![Ninja](https://github.com/user-attachments/assets/31620b6c-1cf5-45f1-b72c-59cf1da73b6f) |
+| 381. Leonardo | 382. Muffintop | 383. Michelangelo | 384. Opera GX | 385. Tank |
+| ![Leonardo](https://github.com/user-attachments/assets/44678618-4a64-4bf4-923a-d2a2dda6431f) | ![Muffintop](https://github.com/user-attachments/assets/38b1e6af-8d84-475c-81d6-fbe0e58888c7) | ![Michelangelo](https://github.com/user-attachments/assets/59a04ddb-fea9-4b2b-b020-1713c7cc349e) | ![OperaGX](https://github.com/user-attachments/assets/4c94eb73-b95c-4e34-ba99-fd4a8ed0fdc8) | ![Tank](https://github.com/user-attachments/assets/9bd51c15-7a02-448d-a3c7-1a7bcf4788b2) |
+| 386. Friendship Destroyer | 387. Bowser ||||
+| ![FriendshipDestroyer](https://github.com/user-attachments/assets/9e3cd5ce-fc9f-486b-8e21-bc25de94238d) | ![Bowser](https://github.com/user-attachments/assets/b6017d54-c804-4bae-8186-d68b32c4c9f0) ||||
 
 Phoenixes:
 
-| 388.  | 389.  | 390.  | 391.  | 392.  |
+| 388. Philomena | 389. Peewee | 390. Cuno | 391. Lettuce | 392. Galarmo |
 |---|---|---|---|---|
-| ![388](https://github.com/user-attachments/assets/21f2b3a9-1adb-4198-92a9-43dd162ca69b) | ![389](https://github.com/user-attachments/assets/c9438b78-6e52-4ebc-b5c3-43d8fe731991) | ![390](https://github.com/user-attachments/assets/4a38e1e4-dc5e-4d76-9a07-14244ee6b7b3) | ![391](https://github.com/user-attachments/assets/5077486d-6d54-483d-aca7-cfb7bdb5d95a) | ![image](https://github.com/user-attachments/assets/a5d16dd3-c26c-45fa-9897-9ddeba702af3) |
+| ![Philomena](https://github.com/user-attachments/assets/21f2b3a9-1adb-4198-92a9-43dd162ca69b) | ![Peewee](https://github.com/user-attachments/assets/c9438b78-6e52-4ebc-b5c3-43d8fe731991) | ![Cuno](https://github.com/user-attachments/assets/4a38e1e4-dc5e-4d76-9a07-14244ee6b7b3) | ![Lettuce](https://github.com/user-attachments/assets/5077486d-6d54-483d-aca7-cfb7bdb5d95a) | ![Galarmo](https://github.com/user-attachments/assets/a5d16dd3-c26c-45fa-9897-9ddeba702af3) |
 
 Capybaras:
 
-| 393.  | 394.  | 395.  |
+| 393. Eepy | 394. Wakey | 395. Polarpy |
 |---|---|---|
-| ![image](https://github.com/user-attachments/assets/ccf7c1a4-93f0-4f4b-8116-36c0920b836d) | ![image](https://github.com/user-attachments/assets/e5e1f73f-affb-4213-973d-890b3fb9144a) | ![image](https://github.com/user-attachments/assets/67bc4ed9-c64b-49ce-aed5-13f8bbcaf1af) |
+| ![Eepy](https://github.com/user-attachments/assets/ccf7c1a4-93f0-4f4b-8116-36c0920b836d) | ![Wakey](https://github.com/user-attachments/assets/e5e1f73f-affb-4213-973d-890b3fb9144a) | ![Polarpy](https://github.com/user-attachments/assets/67bc4ed9-c64b-49ce-aed5-13f8bbcaf1af) |
 
 Axolotls:
 
-| 396.  | 397.  | 398.  | 399.  | 400.  |
+| 396. Peanut | 397. Moss | 398. Blossom | 399. French Fry | 400. Lavender |
 |---|---|---|---|---|
-| ![image](https://github.com/user-attachments/assets/a010fbf9-e57f-4811-851a-fb91fe0820d5) | ![image](https://github.com/user-attachments/assets/526bc729-44e4-4f13-9384-7cb54cb072b9) | ![image](https://github.com/user-attachments/assets/09bb94a5-1aaf-4f75-8607-afb0d5ec8d59) | ![image](https://github.com/user-attachments/assets/637c4de4-9bb0-419e-ba53-34d2d6b07a55) | ![image](https://github.com/user-attachments/assets/ed726559-b94a-4448-99d7-85777e6d0227) |
-| 401.  |||||
-| ![image](https://github.com/user-attachments/assets/b114489e-8860-4ed2-88ad-d576af81e7be) |||||
+| ![Peanut](https://github.com/user-attachments/assets/a010fbf9-e57f-4811-851a-fb91fe0820d5) | ![Moss](https://github.com/user-attachments/assets/526bc729-44e4-4f13-9384-7cb54cb072b9) | ![Blossom](https://github.com/user-attachments/assets/09bb94a5-1aaf-4f75-8607-afb0d5ec8d59) | ![FrenchFry](https://github.com/user-attachments/assets/637c4de4-9bb0-419e-ba53-34d2d6b07a55) | ![Lavender](https://github.com/user-attachments/assets/ed726559-b94a-4448-99d7-85777e6d0227) |
+| 401. Mud |||||
+| ![Mud](https://github.com/user-attachments/assets/b114489e-8860-4ed2-88ad-d576af81e7be) |||||
 
 Sources:
 1. https://www.youtube.com/watch?v=VPAO5TDzMcA
 2. https://www.youtube.com/watch?v=SH1Loq3OyM8
+3. https://www.youtube.com/watch?v=UlAuOZOubkY
